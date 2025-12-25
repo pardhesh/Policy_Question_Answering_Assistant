@@ -1,0 +1,58 @@
+Question: What is the biggest e-commerce in India?
+Batches: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 34.43it/s]
+
+No relevant policy information was found in the provided documents.
+
+Question: can i cancel if didn't like the product?
+Batches: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 34.02it/s]
+
+Answer:
+- No information is provided in the context about cancelling an order due to not liking the product.
+- Cancellation is only mentioned in cases of payment failure, stock unavailability, or suspected fraudulent activity.
+- Refund policy mentions eligibility for a refund within 14 days from the date of delivery, but this does not imply that an order can be cancelled after delivery.
+
+Sources:
+- cancellation_policy.txt, chunk 0
+- cancellation_policy.txt, chunk 1
+- refund_policy.txt, chunk 2
+
+Question: can i cancel product after 2 dayys
+Batches: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 35.72it/s]
+
+Answer:
+- Orders can be cancelled within 24 hours of placing the order.
+
+Sources:
+- cancellation_policy.txt, chunk 0
+
+Question: how i can track my order?
+Batches: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 60.11it/s]
+
+Answer:
+- Tracking information will be shared with customers once the order has been dispatched.
+
+Sources:
+- shipping_policy.txt, chunk 1
+
+Question: due to cyclone my order didn't reached me? what happen now?
+Batches: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 30.37it/s] 
+
+Answer:
+- The company is not responsible for delays caused by natural disasters.
+- You will not be eligible for a refund or replacement due to the order being lost in transit.
+
+Sources:
+- shipping_policy.txt, chunk 1
+
+Question: my cancellation got done when will my amount come back?
+Batches: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 55.34it/s] 
+
+Answer:
+- Refunds will be processed within 7 business days after the returned item is received and inspected.
+- Refunds will be issued to the original method of payment used during purchase.
+
+Sources:
+- refund_policy.txt, chunk 1
+
+Question: exit
+Exiting. Goodbye!
